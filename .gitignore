@@ -1,0 +1,27 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Segredos
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+.env
+*.env
+
+# IDE / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Backups gerados pelo sistema_python
+vendas_backup_*.csv
