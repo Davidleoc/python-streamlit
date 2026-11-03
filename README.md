@@ -8,7 +8,6 @@ Coleção de projetos de estudo em Python: análise de dados, automação, orien
 |-------|------|-------|-----------|
 | [`analise_dados_python`](analise_dados_python/) | Jupyter Notebook | pandas, plotly | Análise exploratória de cancelamento de clientes (churn) |
 | [`automacao_pyautogui`](automacao_pyautogui/) | Script (RPA) | pyautogui, pandas | Cadastro automático de produtos em um sistema web a partir de um CSV |
-| [`modelos_restaurantes`](modelos_restaurantes/) | Script (POO) | Python puro | Modelagem de restaurantes e avaliações com classes |
 | [`python_ia`](python_ia/) | App Streamlit | streamlit, openai (API Gemini) | Chatbot com respostas em streaming |
 | [`sistema_python`](sistema_python/) | App Streamlit | streamlit, pandas, plotly | Cadastro de vendas com dashboard e filtros |
 
@@ -47,7 +46,6 @@ python -m streamlit run <arquivo>.py
 python-streamlit/
 ├── analise_dados_python/
 ├── automacao_pyautogui/
-├── modelos_restaurantes/
 ├── python_ia/
 ├── sistema_python/
 ├── .gitignore
