@@ -2,6 +2,9 @@
 
 Aplicação web em Python para **cadastrar vendas**, **consultar o histórico** e **visualizar indicadores** em um dashboard interativo. Os dados ficam em um arquivo CSV local.
 
+<img width="1903" height="925" alt="image" src="https://github.com/user-attachments/assets/6264861f-db7a-4783-9603-a7f124114cfa" />
+
+
 ## Funcionalidades
 
 | Aba | Recursos |
