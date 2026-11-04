@@ -2,6 +2,9 @@
 
 Chatbot web em Streamlit que usa o modelo **Gemini** do Google pelo endpoint compatível com a API da OpenAI. As respostas aparecem em streaming.
 
+<img width="1881" height="908" alt="image" src="https://github.com/user-attachments/assets/83c3feed-5219-4ae1-8487-5038c0922f7c" />
+
+
 ## Funcionalidades
 
 - Histórico da conversa na sessão (`st.session_state`)
